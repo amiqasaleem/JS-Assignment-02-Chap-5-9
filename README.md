@@ -1,0 +1,1 @@
+# Second Assignment of JavaScript: Chapter 5 - 9
